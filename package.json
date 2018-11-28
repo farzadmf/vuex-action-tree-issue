@@ -2,5 +2,9 @@
   "name": "vuex-actiontree-issue",
   "version": "1.0.0",
   "main": "index.js",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "vuex": "^3.0.1",
+    "vuex-class": "^0.3.1"
+  }
 }
