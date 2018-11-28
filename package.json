@@ -6,5 +6,9 @@
   "dependencies": {
     "vuex": "^3.0.1",
     "vuex-class": "^0.3.1"
+  },
+  "devDependencies": {
+    "@types/jest": "^23.3.9",
+    "jest": "^23.6.0"
   }
 }
